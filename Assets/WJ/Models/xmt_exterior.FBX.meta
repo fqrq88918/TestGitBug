@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 9b57aae89bf7b414baba41b963ad05a2
+timeCreated: 1496367937
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: base
+    100002: BELLs
+    100004: bells
+    100006: f1_back
+    100008: f1_other
+    100010: FENCES
+    100012: fences
+    100014: OTHERS
+    100016: paibian
+    100018: ROOFS
+    100020: roofs
+    100022: top
+    100024: top_001
+    100026: top_002
+    100028: top_003
+    100030: top_004
+    100032: top_005
+    100034: top_006
+    100036: WALLS
+    100038: walls
+    100040: WOODS
+    100042: woods
+    100044: //RootNode
+    400000: base
+    400002: BELLs
+    400004: bells
+    400006: f1_back
+    400008: f1_other
+    400010: FENCES
+    400012: fences
+    400014: OTHERS
+    400016: paibian
+    400018: ROOFS
+    400020: roofs
+    400022: top
+    400024: top_001
+    400026: top_002
+    400028: top_003
+    400030: top_004
+    400032: top_005
+    400034: top_006
+    400036: WALLS
+    400038: walls
+    400040: WOODS
+    400042: woods
+    400044: //RootNode
+    2300000: base
+    2300002: bells
+    2300004: f1_back
+    2300006: f1_other
+    2300008: fences
+    2300010: paibian
+    2300012: roofs
+    2300014: top
+    2300016: top_001
+    2300018: top_002
+    2300020: top_003
+    2300022: top_004
+    2300024: top_005
+    2300026: top_006
+    2300028: walls
+    2300030: woods
+    3300000: base
+    3300002: bells
+    3300004: f1_back
+    3300006: f1_other
+    3300008: fences
+    3300010: paibian
+    3300012: roofs
+    3300014: top
+    3300016: top_001
+    3300018: top_002
+    3300020: top_003
+    3300022: top_004
+    3300024: top_005
+    3300026: top_006
+    3300028: walls
+    3300030: woods
+    4300000: woods
+    4300002: walls
+    4300004: fences
+    4300006: roofs
+    4300008: bells
+    4300010: base
+    4300012: top
+    4300014: paibian
+    4300016: f1_other
+    4300018: f1_back
+    4300020: top_001
+    4300022: top_002
+    4300024: top_003
+    4300026: top_004
+    4300028: top_005
+    4300030: top_006
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
